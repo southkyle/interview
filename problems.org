@@ -1,10 +1,10 @@
-* Quick Sort
-* Merge Sort
+* DONE Quick Sort
+* TODO Merge Sort
 * atoi
 * atof
 * itoa
-* memcpy
-* memmov
+* TODO memcpy (assert)
+* TODO memmov (指针位置)
 * stack
 * Use 2 stack to implement queue
 * Find the minimum of the stack
@@ -35,7 +35,7 @@
 * n个0-n^2-1的数进行排序
 * 24点
 * 逆转字符串
-* Valid bst
+* DONE Valid bst(判断条件不要弄反了，自信的多检查一下，总有可能出错)
 * poor monkey
 * Suffix tree
 * Bloom filter
