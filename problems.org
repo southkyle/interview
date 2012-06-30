@@ -1,17 +1,17 @@
 * DONE Quick Sort
-* TODO Merge Sort
+* DONE Merge Sort
 * atoi
 * atof
 * itoa
-* TODO memcpy (assert)
-* TODO memmov (指针位置)
+* DONE memcpy (assert)
+* DONE memmov (指针位置)
 * stack
 * Use 2 stack to implement queue
 * Find the minimum of the stack
 * List
-* Find whether the list had a cirle
-* Find the cirle point
-* Whether two list has intersection
+** Find whether the list had a cirle
+** Find the cirle point
+** Whether two list has intersection
 * What's thread safe
 * KMP
 * Extend KMP
@@ -30,9 +30,9 @@
 * Max sub array
 * Max sub matrix
 * Binary Search tree insert
-* Poker shuffle
-* 不知到行数，从中随机挑一行/n行
-* n个0-n^2-1的数进行排序
+* DONE Poker shuffle
+* DONE 不知到行数，从中随机挑一行/n行
+* DONE n个0-n^2-1的数进行排序
 * 24点
 * 逆转字符串
 * DONE Valid bst(判断条件不要弄反了，自信的多检查一下，总有可能出错)
