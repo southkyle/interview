@@ -48,7 +48,7 @@
 * throw eggs
 * skating(dp)
 * rotated array search
-* 走台阶
+* DONE 走台阶
 * regular expression(程序设计实践)
 * how to debug
 * why join google
@@ -70,7 +70,11 @@
 * 《弄懂的算法变成题》
 *  最长连续公共序列，最长连续字串
 * Suffix tree
- 
+* stl的应用
+** vector 2-d vector
+** string resize
+** string reserve
+** std::reverse 
 
 
 
