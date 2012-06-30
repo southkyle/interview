@@ -1,0 +1,23 @@
+* What's thread safe? What's the relationship betwwen thread safe and 可重入函数?
+
+   当一个函数被多个线程反复调用时，它会一直返回正确的结果。
+
+** 导致线程不安全的根本原因（线程之间有共享数据)
+** 共享变量未加锁
+** 扩越多个调用的状态函数
+unsigned int next = 1;
+int rand(void) {
+  next = next * 1103515245 + 12345;
+  return (unsigned int) (next / 655356);
+}
+
+void srand(unsigned int seed) {
+  next = seed;
+}
+
+** 函数值返回静态成员（全局变量）
+*** gethostbyname
+** 调用了其他线程不安全的函数
+
+* 什么是可重入函数？
+线程之间没有共享数据
