@@ -1,0 +1,76 @@
+* Quick Sort
+* Merge Sort
+* atoi
+* atof
+* itoa
+* memcpy
+* memmov
+* stack
+* Use 2 stack to implement queue
+* Find the minimum of the stack
+* List
+* Find whether the list had a cirle
+* Find the cirle point
+* Whether two list has intersection
+* What's thread safe
+* KMP
+* Extend KMP
+* Suffix tree
+* Top Coder trie tree
+* CLRS augment datastructure
+* rmq online offline algorithms
+* lca
+* big integer add sub mul div
+* Joseph
+** array
+** list
+** formula
+* 连续窗口寻找最大值
+* 双端堆，返回最大最小值
+* Max sub array
+* Max sub matrix
+* Binary Search tree insert
+* Poker shuffle
+* 不知到行数，从中随机挑一行/n行
+* n个0-n^2-1的数进行排序
+* 24点
+* 逆转字符串
+* Valid bst
+* poor monkey
+* Suffix tree
+* Bloom filter
+* Intersting google interview
+* CLRS dynamic programming
+* quick select
+** Slect kth number from two sorted array
+* mvt slect the required version
+* lake couting (dp)
+* throw eggs
+* skating(dp)
+* rotated array search
+* 走台阶
+* regular expression(程序设计实践)
+* how to debug
+* why join google
+* Any other question?
+* Binary search
+** lower bound
+** uppper bound
+* Permulation
+* Combine
+* Power
+* LRU Cache
+* reverse sigle linked list
+* reverse double linked list
+* 二叉树的中位数
+* Complex list copy
+* monkey move bananas
+* Last kth number of a list
+* 找明星
+* 《弄懂的算法变成题》
+*  最长连续公共序列，最长连续字串
+* Suffix tree
+ 
+
+
+
