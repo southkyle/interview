@@ -6,8 +6,8 @@
 * DONE memcpy (assert)
 * DONE memmov (指针位置)
 * stack
-* Use 2 stack to implement queue
-* Find the minimum of the stack
+** Use 2 stack to implement queue
+** Find the minimum of the stack
 * List
 ** Find whether the list had a cirle
 ** Find the cirle point
@@ -58,7 +58,7 @@
 ** uppper bound
 * Permulation
 * Combine
-* Power
+* DONE Power
 * LRU Cache
 * reverse sigle linked list
 * reverse double linked list
@@ -66,7 +66,7 @@
 * Complex list copy
 * monkey move bananas
 * Last kth number of a list
-* 找明星
+* DONE 找明星
 * 《弄懂的算法变成题》
 *  最长连续公共序列，最长连续字串
 * Suffix tree
