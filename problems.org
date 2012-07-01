@@ -5,14 +5,14 @@
 * itoa
 * DONE memcpy (assert)
 * DONE memmov (指针位置)
-* stack
-** Use 2 stack to implement queue
-** Find the minimum of the stack
+* DONE stack
+** DONE Use 2 stack to implement queue
+** DONE Find the minimum of the stack
 * List
 ** Find whether the list had a cirle
 ** Find the cirle point
 ** Whether two list has intersection
-* What's thread safe
+* DONE What's thread safe
 * KMP
 * Extend KMP
 * Suffix tree
