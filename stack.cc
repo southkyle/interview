@@ -48,6 +48,93 @@ using namespace std;
 // catch StackException:
 //   print error
 
+
+
+// Stack return the minimum element.
+// Easy.
+// Keep two stack.
+
+class Stack {
+public:
+  void Push(int x) {
+    s1.push(x);
+    if (x < s2.top()) {
+      s2.push(x);
+    }
+  }
+
+  int Pop() {
+    int x = s1.top();
+    s1.pop();
+    if (x == s2.top()) {
+      s2.pop();
+    }
+    return x;
+  }
+
+  int MinNum() {
+    return s2.top();
+  }
+private:
+  std::stack<int> s1;
+  std::stack<int> s2;
+};
+
+// What about space complexity is O(1)
+// if the numbers push to the stack are > 0
+
+// |  5 |   |    |
+// | 14 |   |    |
+// | 13 |   |    |
+// | 12 |   |    |
+// |  6 |   |    |
+// |  8 |   |  5 |
+// | 12 |   |  6 |
+// | 11 |   |  8 |
+// | 10 |   | 10 |
+// |----+---+----|
+
+// |  5 |   | -1 |  min_element = 5
+// | 14 |   | 14 |  
+// | 13 |   | 13 |
+// | 12 |   | 12 |
+// |  6 |   | -2 |
+// |  8 |   | -2 |
+// | 12 |   | 12 |
+// | 11 |   | 11 |
+// | 10 |   | 10 |  
+// |----+---+----|
+
+
+// min_element is 5, if we pop -1, we find that -1 is less than zero.
+// Then it must be a minimus number. The next min_element is 5 - (-1)  = 6
+
+// def Push(self, x):
+//    if x < self.min_element:
+//      x -= self.min_element
+//      self.min_element = x
+   
+//    self.stack.push(x)
+
+// def Pop(self):
+//    if self.stack.top() < 0:
+//       self.min_element = self.min_element - self.stack.top()
+
+//    self.stack.pop()
+
+// def Top(self):
+//    if self.stack.top() < 0:
+//       return self.min_element
+//    else:
+//       return self.stack.top()
+
+// Suppose previous minimum number is a
+// Now the minumu number is b so b < a
+// b - a < 0
+// 2b - a < b
+// So we put (2b - a) at the top of the stack.
+
+
 class Queue {
 public:
   void Push(int x) {
