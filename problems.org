@@ -2,7 +2,7 @@
 * DONE Merge Sort
 * atoi
 * atof
-* itoa
+* DONE itoa
 * DONE memcpy (assert)
 * DONE memmov (指针位置)
 * DONE stack
