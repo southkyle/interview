@@ -134,6 +134,63 @@ private:
 // 2b - a < b
 // So we put (2b - a) at the top of the stack.
 
+// Implement a stack that pops out the most frequently added item.
+// Stack supports 3 functions - push, pop,and top.
+// Give complexity of each functions in your implementation.
+
+hash_map<int, list<int> > all_data;
+struct Node {
+  int count;   
+  int sequence;
+  int number;
+ 
+  
+  int Compare(const Node& n) {
+    if (count < n.count) {
+      return -1;
+    } else if (count > n.count) {
+      return 1;
+    } else if (number == n.number) {
+      return 0;
+    } else if (sequence < n.sequence) {
+      return -1;
+    } else {
+      return 1;
+    }
+  }
+};
+
+set<Node> nodes;
+
+void Push(int x) {
+  if (all_data.find(x)) {
+    Node n;
+    n.count = all_data[x].size();
+    n.number = x;
+    nodes.remove(n);
+    n.count++;
+    n.sequence = GetSequence();
+    nodes.add(n);
+    all_data[x].push_back(x);
+  } else {
+    Node n;
+    n.count = 1;
+    n.number = x;
+    n.sequence = GetSequence();
+    nodes.add(n);
+    all_data[x].push_back(x);
+  }
+}
+
+void Pop(int* x) {
+  n = nodes.remove_last();
+  n.count -= 1;
+  nodes.add(n);
+  all_data[n.number].pop();
+}
+
+// O(logn)
+// All just compute the most frequent number
 
 class Queue {
 public:
