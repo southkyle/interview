@@ -62,6 +62,31 @@ char* ReverseWords2(char* text) {
   return text;
 }
 
+// void ReverseSentence3(char* text) {
+//     istringstream is(text);
+//     std::vector<string> words;
+//     string word;
+//     while (text >> word) {
+//         words.push_back(word);
+//     }
+    
+//     vector<string>::const_reverse_iterator iter =words.rbegin();
+//     while (iter != words.rend()) {
+//         cout << *iter << endl;
+//         iter++;
+// //        std::reverse(iter->begin(), iter->end());
+//     }
+// }
+
+// def ReverseWords(text):
+//     words = text.split()
+//     reverse_words = []
+//     for word in words:
+//         reverse_words.append(word[-1:])
+//     return ' '.join(reverse_words)
+
+
+
 int main(int argc, char *argv[]) {
   char text1[] = {"I love apple"};
   char text2[] = {"who are you"};
