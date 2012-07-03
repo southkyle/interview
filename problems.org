@@ -34,7 +34,7 @@
 * DONE 不知到行数，从中随机挑一行/n行
 * DONE n个0-n^2-1的数进行排序
 * 24点
-* 逆转字符串
+* DONE 逆转字符串
 * DONE Valid bst(判断条件不要弄反了，自信的多检查一下，总有可能出错)
 * poor monkey
 * Suffix tree
@@ -70,11 +70,11 @@
 * 《弄懂的算法变成题》
 *  最长连续公共序列，最长连续字串
 * Suffix tree
-* stl的应用
-** vector 2-d vector
-** string resize
-** string reserve
-** std::reverse 
+* DONE stl的应用
+** DONE vector 2-d vector
+** DONE string resize
+** DONE string reserve
+** DONE std::reverse 
 
 
 
