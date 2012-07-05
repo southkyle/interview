@@ -48,6 +48,39 @@ char* ReverseWords(char* text) {
   return text;
 }
 
+char* ReververWords3(char* str) {
+  int len = strlen(str);
+  int last = 0;
+  enum State {kSpaceState, kWordState};
+  State = kSpaceState;
+  for (int i = 0; i <= len; i++) {
+    if (State == kWordState) {
+      if (str[i] == '\0' || str[i] == ' ') {
+        std::reverse(&str[last], &str[i]);
+        state = kSpaceState;
+      }
+    } else if (str[i] != '\0' && str[i] != ' ') {
+        state = kWordState;
+        last = i;  // what about move it to the kWordState
+      }
+    }
+  return str;
+}
+
+// ReverseWords3 减少了std::reverse的调用次数
+// ReverseWords4 更为简单
+char* ReverseWords4(char* str) {
+  int len = strlen(text);
+  int last = 0;
+  for (int i = 0; i <= len; i++) {
+    if (i == len || str[i] == ' ') {
+      std::reverse(&str[last], &str[i]);
+      last = i + 1;
+    }
+  }
+  return str;
+}
+
 char* ReverseWords2(char* text) {
   int i = 0;
   int j = 0;
