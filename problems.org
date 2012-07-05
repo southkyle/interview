@@ -60,8 +60,8 @@
 * Combine
 * DONE Power
 * LRU Cache
-* reverse sigle linked list
-* reverse double linked list
+* DONE reverse sigle linked list
+* DONE reverse double linked list
 * 二叉树的中位数
 * Complex list copy
 * monkey move bananas
@@ -69,7 +69,6 @@
 * DONE 找明星
 * 《弄懂的算法变成题》
 *  最长连续公共序列，最长连续字串
-* Suffix tree
 * DONE stl的应用
 ** DONE vector 2-d vector
 ** DONE string resize

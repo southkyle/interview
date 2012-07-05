@@ -30,6 +30,19 @@ struct DoubleLinkedNode {
 typedef DoubleLinkedNode* DoubleLinkedList;
 
 DoubleLinkedList Reverse(DoubleLinkedList list) {
+  DoubleLinkedNode* preNode = NULL;
+  DoubleLinkedNode* curNode = list;
+  while (curNode != NULL) {
+    DoubleLinkedNode* tmp = curNode;
+    curNode = curNode->next;
+    tmp->next = preNode;
+    if (preNode != NULL) {
+      preNode->pre = tmp;      
+    }
+    tmp->pre = NULL;
+    curNode->pre = NULL;
+    preNode = tmp;
+  }
   return NULL;
 }
 
