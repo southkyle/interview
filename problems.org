@@ -57,10 +57,12 @@
 * Binary search
 ** lower bound
 ** uppper bound
-* Permulation
+* DONE Permulation
 * Combine
 * DONE Power
-* LRU Cache
+* LRU Cache [%]
+** Chrome lru cache
+** leveldb lru cache
 * DONE reverse sigle linked list
 * DONE reverse double linked list
 * 二叉树的中位数
@@ -70,11 +72,14 @@
 * DONE 找明星
 * 《弄懂的算法变成题》
 *  最长连续公共序列，最长连续字串
-* DONE stl的应用
+* stl的应用 [80%]
 ** DONE vector 2-d vector
 ** DONE string resize
 ** DONE string reserve
-** DONE std::reverse 
+** DONE std::reverse
+** TODO hashset
+** TODO hashmap
+** TODO list
+
 * TODO pssh
 * TODO fabric
-* 
