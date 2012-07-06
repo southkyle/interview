@@ -8,10 +8,11 @@
 * DONE stack
 ** DONE Use 2 stack to implement queue
 ** DONE Find the minimum of the stack
-* List
-** Find whether the list had a cirle
-** Find the cirle point
-** Whether two list has intersection
+* List [75%]
+** DONE Find whether the list had a cirle
+** DONE Find the cirle point
+** DONE Whether two list has intersection
+** TODO Kown the reason of cirle point
 * DONE What's thread safe
 * KMP
 * Extend KMP
@@ -74,3 +75,6 @@
 ** DONE string resize
 ** DONE string reserve
 ** DONE std::reverse 
+* TODO pssh
+* TODO fabric
+* 
