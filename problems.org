@@ -84,4 +84,5 @@
 * TODO pssh
 * TODO fabric
 * DONE 二进制中1的个数
-* TODO 寻找水王
+* DONE 寻找水王
+* DONE Phone number
