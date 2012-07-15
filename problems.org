@@ -86,3 +86,4 @@
 * DONE 二进制中1的个数
 * DONE 寻找水王
 * DONE Phone number
+* DONE max length of bst
