@@ -34,13 +34,13 @@
 * DONE Poker shuffle
 * DONE 不知到行数，从中随机挑一行/n行
 * DONE n个0-n^2-1的数进行排序
-* 24点
+* DONE 24点
 * DONE 逆转字符串
 * DONE Valid bst(判断条件不要弄反了，自信的多检查一下，总有可能出错)
 * poor monkey
 * Suffix tree
 * Bloom filter
-* Intersting google interview
+* DONE Intersting google interview
 * CLRS dynamic programming
 * quick select
 ** Slect kth number from two sorted array
@@ -58,17 +58,19 @@
 ** lower bound
 ** uppper bound
 * DONE Permulation
-* Combine
+* DONE Combine
 * DONE Power
 * LRU Cache [%]
 ** Chrome lru cache
 ** leveldb lru cache
 * DONE reverse sigle linked list
 * DONE reverse double linked list
-* 二叉树的中位数
+* DONE 二叉树的中位数
 * Complex list copy
 * monkey move bananas
-* Last kth number of a list
+* DONE List
+** DONE mid number of list
+** DONE last k number of list
 * DONE 找明星
 * 《弄懂的算法变成题》
 *  最长连续公共序列，最长连续字串
