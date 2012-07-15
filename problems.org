@@ -48,7 +48,7 @@
 * lake couting (dp)
 * throw eggs
 * skating(dp)
-* rotated array search
+* DONE rotaetd array search
 * DONE 走台阶
 * regular expression(程序设计实践)
 * how to debug
