@@ -46,7 +46,7 @@
 ** Slect kth number from two sorted array
 * mvt slect the required version
 * lake couting (dp)
-* throw eggs
+* DONE throw eggs
 * skating(dp)
 * DONE rotaetd array search
 * DONE 走台阶
