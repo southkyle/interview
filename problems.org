@@ -67,7 +67,7 @@
 * DONE reverse double linked list
 * DONE 二叉树的中位数
 * Complex list copy
-* monkey move bananas
+* DONE monkey move bananas
 * DONE List
 ** DONE mid number of list
 ** DONE last k number of list
