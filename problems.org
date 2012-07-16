@@ -37,7 +37,7 @@
 * DONE 24点
 * DONE 逆转字符串
 * DONE Valid bst(判断条件不要弄反了，自信的多检查一下，总有可能出错)
-* poor monkey
+* DONE poor monkey
 * Suffix tree
 * Bloom filter
 * DONE Intersting google interview
