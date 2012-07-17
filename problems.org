@@ -21,7 +21,7 @@
 * CLRS augment datastructure
 * rmq online offline algorithms
 * lca
-* big integer add sub mul div
+* DONE big integer add sub mul div
 * Joseph
 ** array
 ** list
@@ -30,7 +30,7 @@
 * 双端堆，返回最大最小值
 * Max sub array
 * Max sub matrix
-* Binary Search tree insert
+* DONE Binary Search tree insert
 * DONE Poker shuffle
 * DONE 不知到行数，从中随机挑一行/n行
 * DONE n个0-n^2-1的数进行排序
@@ -38,7 +38,6 @@
 * DONE 逆转字符串
 * DONE Valid bst(判断条件不要弄反了，自信的多检查一下，总有可能出错)
 * DONE poor monkey
-* Suffix tree
 * Bloom filter
 * DONE Intersting google interview
 * CLRS dynamic programming
@@ -84,7 +83,7 @@
 ** TODO list
 
 * TODO pssh
-* TODO fabric
+* DONE fabric
 * DONE 二进制中1的个数
 * DONE 寻找水王
 * DONE Phone number
