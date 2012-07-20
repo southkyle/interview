@@ -53,9 +53,9 @@
 * how to debug
 * why join google
 * TODO Any other question?
-* Binary search
-** lower bound
-** uppper bound
+* DONE Binary search
+** DONE lowe rbound
+** DONE uppper bound
 * DONE Permulation
 * DONE Combine
 * DONE Power
