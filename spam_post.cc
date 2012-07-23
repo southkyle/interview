@@ -1,17 +1,8 @@
 #include <iostream>
 #include <cstdlib>
 #include <vector>
+#include "common.h"
 using namespace std;
-
-#define ASSERT_EQ(a, b)                                 \
-  if ((a) != (b)) {                                     \
-    cout << "FAIL " << #a << "!=" << #b << endl;        \
-        exit(1);                                        \
-  }  else {                                             \
-    cout << "OK" << endl;;                              \
-  }
-
-#define arraysize(a) (sizeof(a)/sizeof(a[0]))
 
 int FindSpamPost(std::vector<int>& users) {
   int spam_user = -1;
