@@ -1,0 +1,5 @@
+ADD_EXECUTABLE(24 24.cc)
+ADD_EXECUTABLE(stl_test stl_test.cc)
+ADD_EXECUTABLE(power power.cc)
+ADD_EXECUTABLE(common_test common_test.cc)
+ADD_EXECUTABLE(steps steps.cc)

@@ -1,6 +1,8 @@
 #include <iostream>
 #include <vector>
 #include <cassert>
+
+#include "common.h"
 using namespace std;
 
 
@@ -40,10 +42,10 @@ int Fib3(int n) {
 
 
 int main() {
-  assert(Fib1(1) == 1);
-  assert(Fib1(2) == 2);
-  assert(Fib1(3) == 3);
-  assert(Fib1(10) == Fib2(10));
-  assert(Fib1(10) == Fib3(10));
+  ASSERT_EQ(Fib1(1), 1);
+  ASSERT_EQ(Fib1(2), 2);
+  ASSERT_EQ(Fib1(3), 3);
+  ASSERT_EQ(Fib1(10), Fib2(10));
+  ASSERT_EQ(Fib1(10), Fib3(10));
   return 0;
 }
