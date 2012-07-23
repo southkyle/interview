@@ -1,27 +1,8 @@
 #include <iostream>
 #include <cmath>
-#include <cstring>
 #include <algorithm>
+#include "common.h"
 using namespace std;
-
-
-#define arraysize(array) (sizeof(array) / sizeof(array[0]))
-
-#define ASSERT_EQ(a, b) \
-  if ((a) == (b)) {\
-  cout << "OK " << #a << "==" << #b << endl;\
-  } else {\
-    cout << "FAIL " << #a << "!=" << #b << endl;	\
-  }
-
-
-#define ASSERT_STREQ(a, b) \
-  if (strcmp(a, b) == 0) {				\
-  cout << "OK " << #a << "==" << #b << endl;\
-  } else {\
-    cout << "FAIL " << #a << "!=" << #b << endl;	\
-  }
-
 
 // Notice that num can be -10, -20
 char* itoa(int num, char* str) {
@@ -83,10 +64,8 @@ string itoa2(int num, int base) {
 }
 
 int main() {
-  ASSERT_EQ(1, 2);
   ASSERT_EQ(1, 1);
   ASSERT_STREQ("bc", "bc");
-  ASSERT_STREQ("adc", "dff");
 
   char str[32];
   cout << itoa(100, str) << endl;
@@ -97,10 +76,8 @@ int main() {
   cout << itoa1(16, str, 16) << endl;
 
   cout << "**************itoa2******************" << endl;
-
-  cout << itoa2(100, 10) << endl;
   cout << itoa2(-100, 10) << endl;
   cout << itoa2(0, 10) << endl;
-
+  
   return 0;
 }
