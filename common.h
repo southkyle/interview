@@ -30,4 +30,11 @@
     cout << "FAIL " << #a << "!=" << #b << endl;	\
   }
 
+#define ASSERT_STRNE(a, b)                              \
+  if (strcmp(a, b) == 0) {				\
+    cout << "FAIL " << #a << "==" << #b << endl;          \
+  } else {                                              \
+    cout << "OK " << #a << "!=" << #b << endl;	\
+  }
+
 #endif /* _COMMON_H_ */
