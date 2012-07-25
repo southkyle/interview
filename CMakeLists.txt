@@ -1,3 +1,7 @@
+cmake_minimum_required(VERSION 2.8)
+
+add_definitions(" -Wall -ansi -g")
+
 ADD_EXECUTABLE(24 24.cc)
 ADD_EXECUTABLE(stl_test stl_test.cc)
 ADD_EXECUTABLE(power power.cc)
