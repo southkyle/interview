@@ -25,6 +25,7 @@
 ** TODO hashset
 ** TODO hashmap
 ** TODO list
+* CLRS augment datastructure
 * LRU Cache [%]
 ** Chrome lru cache
 ** leveldb lru cache
@@ -35,14 +36,14 @@
 * Extend KMP
 * Suffix tree
 * Top Coder trie tree
-* CLRS augment datastructure
 * lca
 * rmq online offline algorithms
+* 树状数组
 * 连续窗口寻找最大值
 * mvt slect the required version
 * 双端堆，返回最大最小值
 * 设计一个数组结构，支持插入，快速返回中位数
-* 《弄懂的算法变成题》
+* 《弄懂的算法编程题》
 * Bloom filter
 * how to debug
 * why join google
