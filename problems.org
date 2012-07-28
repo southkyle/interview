@@ -1,5 +1,5 @@
 * regular expression(程序设计实践)
-* Slect kth number from two sorted array
+* select kth number from two sorted array
 * 一维最大字段和
 * 二维最大字段和
 * 一维循环数组最大字段和
