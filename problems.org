@@ -1,18 +1,5 @@
 * regular expression(程序设计实践)
-* KMP
-* Extend KMP
-* Suffix tree
-* Top Coder trie tree
-* CLRS augment datastructure
-* atoi
-* atof
-* Kown the reason of cirle point
-* lca
-* rmq online offline algorithms
-* 连续窗口寻找最大值
-* CLRS dynamic programming
-* lake couting (dp)
-* skating(dp)
+* Slect kth number from two sorted array
 * 一维最大字段和
 * 二维最大字段和
 * 一维循环数组最大字段和
@@ -24,32 +11,46 @@
 * 最长递增子数组
 * 最长连续公共序列
 * 最长连续字串
-* 双端堆，返回最大最小值
-
-* quick select
-** Slect kth number from two sorted array
-* mvt slect the required version
-* 《弄懂的算法变成题》
-
+* 寻找满足条件的数
+** 一个数组 a+b = c(c是已知的)
+** 一个数组是否存在a+b+c=0
+** 三个数组A B C 是否存在a+b+c=0
 * 二叉树的中位数
 * 双向链表->二叉树
 * 二叉树->双向链表
-
+* atoi
+* atof
+* Kown the reason of cirle point
 * stl的应用
 ** TODO hashset
 ** TODO hashmap
 ** TODO list
-
 * LRU Cache [%]
 ** Chrome lru cache
 ** leveldb lru cache
-
+* CLRS dynamic programming
+* lake couting (dp)
+* skating(dp)
+* KMP
+* Extend KMP
+* Suffix tree
+* Top Coder trie tree
+* CLRS augment datastructure
+* lca
+* rmq online offline algorithms
+* 连续窗口寻找最大值
+* mvt slect the required version
+* 双端堆，返回最大最小值
+* 设计一个数组结构，支持插入，快速返回中位数
+* 《弄懂的算法变成题》
 * Bloom filter
-* TODO pssh
 * how to debug
 * why join google
-* TODO Any other question?
+* Any other question?
+* pssh
 
+
+* DONE quick select
 * DONE Binary search
 ** DONE lowe rbound
 ** DONE uppper bound
