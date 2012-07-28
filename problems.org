@@ -1,5 +1,6 @@
 * regular expression(程序设计实践)
 * select kth number from two sorted array
+* 设计一个数组结构，支持插入，快速返回中位数
 * 一维最大字段和
 * 二维最大字段和
 * 一维循环数组最大字段和
@@ -42,7 +43,6 @@
 * 连续窗口寻找最大值
 * mvt slect the required version
 * 双端堆，返回最大最小值
-* 设计一个数组结构，支持插入，快速返回中位数
 * 《弄懂的算法编程题》
 * Bloom filter
 * how to debug
