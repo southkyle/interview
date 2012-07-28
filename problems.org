@@ -1,26 +1,12 @@
-* hello， world
-* DONE Quick Sort
-* DONE Merge Sort
-* atoi
-* atof
-* DONE itoa
-* DONE memcpy (assert)
-* DONE memmov (指针位置)
-* DONE stack
-** DONE Use 2 stack to implement queue
-** DONE Find the minimum of the stack
-* List [75%]
-** DONE Find whether the list had a cirle
-** DONE Find the cirle point
-** DONE Whether two list has intersection
-** TODO Kown the reason of cirle point
-* DONE What's thread safe
 * KMP
 * Extend KMP
 * Suffix tree
 * Top Coder trie tree
 * CLRS augment datastructure
 * rmq online offline algorithms
+* atoi
+* atof
+** TODO Kown the reason of cirle point
 * lca
 * DONE big integer add sub mul div
 * Joseph
@@ -31,25 +17,20 @@
 * 双端堆，返回最大最小值
 * Max sub array
 * Max sub matrix
-* DONE Binary Search tree insert
-* DONE Poker shuffle
-* DONE 不知到行数，从中随机挑一行/n行
-* DONE n个0-n^2-1的数进行排序
-* DONE 24点
-* DONE 逆转字符串
-* DONE Valid bst(判断条件不要弄反了，自信的多检查一下，总有可能出错)
-* DONE poor monkey
-* Bloom filter
-* DONE Intersting google interview
 * CLRS dynamic programming
 * quick select
 ** Slect kth number from two sorted array
 * mvt slect the required version
 * lake couting (dp)
-* DONE throw eggs
 * skating(dp)
-* DONE rotaetd array search
-* DONE 走台阶
+* 《弄懂的算法变成题》
+*  最长连续公共序列，最长连续字串
+
+* TODO pssh
+
+
+* Bloom filter
+
 * regular expression(程序设计实践)
 * how to debug
 * why join google
@@ -63,29 +44,56 @@
 * LRU Cache [%]
 ** Chrome lru cache
 ** leveldb lru cache
+
+* 二叉树的中位数
+* 双向链表->二叉树
+* 二叉树->双向链表
+
+* stl的应用
+** TODO hashset
+** TODO hashmap
+** TODO list
+
+* DONE Complex list copy
 * DONE reverse sigle linked list
 * DONE reverse double linked list
-* DONE 二叉树的中位数
-* Complex list copy
 * DONE monkey move bananas
 * DONE List
 ** DONE mid number of list
 ** DONE last k number of list
 * DONE 找明星
-* 《弄懂的算法变成题》
-*  最长连续公共序列，最长连续字串
-* stl的应用 [80%]
+* DONE stl的应用 [100%]
 ** DONE vector 2-d vector
 ** DONE string resize
 ** DONE string reserve
 ** DONE std::reverse
-** TODO hashset
-** TODO hashmap
-** TODO list
-
-* TODO pssh
 * DONE fabric
 * DONE 二进制中1的个数
 * DONE 寻找水王
 * DONE Phone number
 * DONE max length of bst
+* DONE throw eggs （DP）
+* DONE Intersting google interview
+* DONE itoa
+* DONE memcpy (assert)
+* DONE memmov (指针位置)
+* DONE stack
+** DONE Use 2 stack to implement queue
+** DONE Find the minimum of the stack
+* List [100%]
+** DONE Find whether the list had a cirle
+** DONE Find the cirle point
+** DONE Whether two list has intersection
+* DONE Quick Sort
+* DONE Merge Sort
+* DONE What's thread safe
+* DONE Binary Search tree insert
+* DONE Poker shuffle
+* DONE 不知到行数，从中随机挑一行/n行
+* DONE n个0-n^2-1的数进行排序
+* DONE 24点
+* DONE 逆转字符串
+* DONE Valid bst(判断条件不要弄反了，自信的多检查一下，总有可能出错)
+* DONE poor monkey
+* DONE rotaetd array search
+* DONE 走台阶
