@@ -1,49 +1,35 @@
+* regular expression(程序设计实践)
 * KMP
 * Extend KMP
 * Suffix tree
 * Top Coder trie tree
 * CLRS augment datastructure
-* rmq online offline algorithms
 * atoi
 * atof
-** TODO Kown the reason of cirle point
+* Kown the reason of cirle point
 * lca
-* DONE big integer add sub mul div
-* Joseph
-** array
-** list
-** formula
+* rmq online offline algorithms
 * 连续窗口寻找最大值
-* 双端堆，返回最大最小值
-* Max sub array
-* Max sub matrix
 * CLRS dynamic programming
+* lake couting (dp)
+* skating(dp)
+* 一维最大字段和
+* 二维最大字段和
+* 一维循环数组最大字段和
+* 二维循环数组最大字段和
+* 二维上线左右循环数组最大字段和
+* histgram最大面积
+* 二维bool矩阵的最大rectangle
+* 二维bool矩阵的最大square
+* 最长递增子数组
+* 最长连续公共序列
+* 最长连续字串
+* 双端堆，返回最大最小值
+
 * quick select
 ** Slect kth number from two sorted array
 * mvt slect the required version
-* lake couting (dp)
-* skating(dp)
 * 《弄懂的算法变成题》
-*  最长连续公共序列，最长连续字串
-
-* TODO pssh
-
-
-* Bloom filter
-
-* regular expression(程序设计实践)
-* how to debug
-* why join google
-* TODO Any other question?
-* DONE Binary search
-** DONE lowe rbound
-** DONE uppper bound
-* DONE Permulation
-* DONE Combine
-* DONE Power
-* LRU Cache [%]
-** Chrome lru cache
-** leveldb lru cache
 
 * 二叉树的中位数
 * 双向链表->二叉树
@@ -54,6 +40,22 @@
 ** TODO hashmap
 ** TODO list
 
+* LRU Cache [%]
+** Chrome lru cache
+** leveldb lru cache
+
+* Bloom filter
+* TODO pssh
+* how to debug
+* why join google
+* TODO Any other question?
+
+* DONE Binary search
+** DONE lowe rbound
+** DONE uppper bound
+* DONE Permulation
+* DONE Combine
+* DONE Power
 * DONE Complex list copy
 * DONE reverse sigle linked list
 * DONE reverse double linked list
@@ -97,3 +99,8 @@
 * DONE poor monkey
 * DONE rotaetd array search
 * DONE 走台阶
+* DONE big integer add sub mul div
+* DONE Joseph
+** DONE array
+** DONE list
+** DONE formula
