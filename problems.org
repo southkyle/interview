@@ -1,11 +1,11 @@
 * DONE regular expression(程序设计实践)
 * select kth number from two sorted array
 * 设计一个数组结构，支持插入，快速返回中位数
-* 一维最大字段和
-* 二维最大字段和
-* 一维循环数组最大字段和
-* 二维循环数组最大字段和
-* 二维上线左右循环数组最大字段和
+* DONE 一维最大字段和
+* DONE 二维最大字段和
+* DONE 一维循环数组最大字段和 (AA)
+* DONE 二维循环数组最大字段和
+* DONE 二维上线左右循环数组最大字段和
 * histgram最大面积
 * 二维bool矩阵的最大rectangle
 * 二维bool矩阵的最大square
