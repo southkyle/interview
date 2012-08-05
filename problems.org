@@ -1,4 +1,4 @@
-* TODO regular expression(程序设计实践)
+* DONE regular expression(程序设计实践)
 * select kth number from two sorted array
 * 设计一个数组结构，支持插入，快速返回中位数
 * 一维最大字段和
@@ -16,9 +16,9 @@
 ** 一个数组 a+b = c(c是已知的)
 ** 一个数组是否存在a+b+c=0
 ** 三个数组A B C 是否存在a+b+c=0
-* 二叉树的中位数
-* 双向链表->二叉树
-* 二叉树->双向链表
+* DONE 二叉树的中位数
+* DONE 双向链表->二叉树
+* DONE 二叉树->双向链表
 * atoi
 * atof
 * Kown the reason of cirle point
