@@ -7,6 +7,24 @@
 
 #define arraysize(array) (sizeof(array) / sizeof(array[0]))
 
+#define ASSERT_TRUE(a)                                  \
+  if (a)  {                                             \
+    std::cout << "==OK==" << std::endl;                 \
+    std::cout << #a << std::endl;         \
+  } else {                                              \
+    std::cout << "==FAIL==" << std::endl;               \
+    std::cout << #a << std::endl;        \
+  }
+
+#define ASSERT_FALSE(a)                                 \
+  if (a)  {                                             \
+    std::cout << "==FAIL==" << std::endl;               \
+    std::cout << #a << std::endl;        \
+  } else {                                              \
+    std::cout << "==OK==" << std::endl;                 \
+    std::cout << #a << std::endl;         \
+  }
+
 #define ASSERT_EQ(a, b)                                         \
   if ((a) == (b)) {                                             \
     std::cout << "==OK==" << std::endl;                         \
