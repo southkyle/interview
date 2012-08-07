@@ -14,3 +14,10 @@ Google上海都有什么项目可以做？
 内部员工有google glass吗？
 
 * why join google?
+Google技术很厉害，进去之后各个方面可以得到提高
+加入Google可以安心做技术，不用分心做一些无关的事情（真正重视技术）
+我做过xx项目，积累了xx方面的经验，可以加入google
+* How to do performance profile? 如何做性能优化
+1 理解系统
+2 用google perftool跑一下，找出性能瓶颈
+3 优化

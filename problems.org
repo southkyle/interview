@@ -24,16 +24,15 @@
 * lca
 * rmq online offline algorithms
 * 树状数组
-* 连续窗口寻找最大值
+* 连续窗口寻找最大值 (Mr. Hui)
 * mvt slect the required version
 * 双端堆，返回最大最小值
 * 《弄懂的算法编程题》
 * Bloom filter
 * how to debug
-* why join google
-* Any other question?
 
-
+* DONE why join google
+* DONE Any other question?
 * DONE TODO寻找满足条件的数 [100%]
 ** DONE 一个数组 a+b = c(c是已知的)
 ** DONE 一个数组是否存在a+b+c=0
