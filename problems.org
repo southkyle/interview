@@ -1,5 +1,4 @@
 * select kth number from two sorted array
-* 设计一个数组结构，支持插入，快速返回中位数
 * histgram最大面积
 * 二维bool矩阵的最大rectangle
 * 二维bool矩阵的最大square
@@ -41,6 +40,8 @@
 * Any other question?
 * pssh
 
+
+* DONE 设计一个数组结构，支持插入，快速返回中位数
 * DONE 二叉树的中位数
 * DONE 双向链表->二叉树
 * DONE 二叉树->双向链表
