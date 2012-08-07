@@ -38,6 +38,7 @@
 ** DONE 一个数组是否存在a+b+c=0
 ** DONE 两个数组是否存在 a+b=c
 ** DONE 三个数组A B C 是否存在a+b+c=0
+** DONE http://www.cs.mcgill.ca/~jking/papers/3sumhard.pdf
 ** DONE 平面上有n个点问是否有3点共线的点
 * DONE 设计一个数组结构，支持插入，快速返回中位数
 * DONE 二叉树的中位数
