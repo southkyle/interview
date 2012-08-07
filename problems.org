@@ -6,11 +6,12 @@
 * 最长递增子数组
 * 最长连续公共序列
 * 最长连续字串
-* 寻找满足条件的数
+* 寻找满足条件的数[%]
 ** DONE 一个数组 a+b = c(c是已知的)
 ** DONE 一个数组是否存在a+b+c=0
 ** DONE 两个数组是否存在 a+b=c
-** 三个数组A B C 是否存在a+b+c=0
+** DONE 三个数组A B C 是否存在a+b+c=0
+** TODO 平面上有n个点问是否有3点共线的点
 * atoi
 * atof
 * Kown the reason of cirle point
