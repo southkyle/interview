@@ -5,12 +5,6 @@
 * 最长递增子数组
 * 最长连续公共序列
 * 最长连续字串
-* 寻找满足条件的数[%]
-** DONE 一个数组 a+b = c(c是已知的)
-** DONE 一个数组是否存在a+b+c=0
-** DONE 两个数组是否存在 a+b=c
-** DONE 三个数组A B C 是否存在a+b+c=0
-** TODO 平面上有n个点问是否有3点共线的点
 * atoi
 * atof
 * Kown the reason of cirle point
@@ -38,9 +32,14 @@
 * how to debug
 * why join google
 * Any other question?
-* pssh
 
 
+* DONE TODO寻找满足条件的数 [100%]
+** DONE 一个数组 a+b = c(c是已知的)
+** DONE 一个数组是否存在a+b+c=0
+** DONE 两个数组是否存在 a+b=c
+** DONE 三个数组A B C 是否存在a+b+c=0
+** DONE 平面上有n个点问是否有3点共线的点
 * DONE 设计一个数组结构，支持插入，快速返回中位数
 * DONE 二叉树的中位数
 * DONE 双向链表->二叉树
@@ -109,3 +108,4 @@
 ** DONE array
 ** DONE list
 ** DONE formula
+* TODO pssh

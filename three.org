@@ -1,0 +1,8 @@
+Given N Points in a Plane find the sets of Collinear Points.
+Collinear points are 3 or more points on the same line.
+(2 points are trivially collinear).
+
+1 C(n, 3)
+2 compute line y = ax + b for any two point, put it to hashtable
+3 if the hashtable exits a pre line than 3 points are coline
+
