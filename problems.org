@@ -29,8 +29,8 @@
 * 双端堆，返回最大最小值
 * 《弄懂的算法编程题》
 * Bloom filter
-* how to debug
 
+* DONE how to debug
 * DONE why join google
 * DONE Any other question?
 * DONE TODO寻找满足条件的数 [100%]

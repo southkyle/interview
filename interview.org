@@ -19,5 +19,12 @@ Google技术很厉害，进去之后各个方面可以得到提高
 我做过xx项目，积累了xx方面的经验，可以加入google
 * How to do performance profile? 如何做性能优化
 1 理解系统
-2 用google perftool跑一下，找出性能瓶颈
+2 用google perftool跑一下，找出性能瓶颈(very import表示你会用perftool)
 3 优化
+* How to debug
+** read code
+** print log
+** unit test
+** gdb
+** core file
+** change make bugs
