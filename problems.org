@@ -1,12 +1,5 @@
-* DONE regular expression(程序设计实践)
-* DONE ugly number
 * select kth number from two sorted array
 * 设计一个数组结构，支持插入，快速返回中位数
-* DONE 一维最大字段和
-* DONE 二维最大字段和
-* DONE 一维循环数组最大字段和 (AA)
-* DONE 二维循环数组最大字段和
-* DONE 二维上线左右循环数组最大字段和
 * histgram最大面积
 * 二维bool矩阵的最大rectangle
 * 二维bool矩阵的最大square
@@ -14,12 +7,10 @@
 * 最长连续公共序列
 * 最长连续字串
 * 寻找满足条件的数
-** 一个数组 a+b = c(c是已知的)
-** 一个数组是否存在a+b+c=0
+** DONE 一个数组 a+b = c(c是已知的)
+** DONE 一个数组是否存在a+b+c=0
+** DONE 两个数组是否存在 a+b=c
 ** 三个数组A B C 是否存在a+b+c=0
-* DONE 二叉树的中位数
-* DONE 双向链表->二叉树
-* DONE 二叉树->双向链表
 * atoi
 * atof
 * Kown the reason of cirle point
@@ -32,8 +23,6 @@
 ** Chrome lru cache
 ** leveldb lru cache
 * CLRS dynamic programming
-* lake couting (dp)
-* skating(dp)
 * KMP
 * Extend KMP
 * Suffix tree
@@ -51,7 +40,18 @@
 * Any other question?
 * pssh
 
-
+* DONE 二叉树的中位数
+* DONE 双向链表->二叉树
+* DONE 二叉树->双向链表
+* DONE regular expression(程序设计实践)
+* DONE ugly number
+* DONE 一维最大字段和
+* DONE 二维最大字段和
+* DONE 一维循环数组最大字段和 (AA)
+* DONE 二维循环数组最大字段和
+* DONE 二维上线左右循环数组最大字段和
+* DONE lake couting (dp)
+* DONE skating(dp)
 * DONE quick select
 * DONE Binary search
 ** DONE lowe rbound
