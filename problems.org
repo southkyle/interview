@@ -1,35 +1,42 @@
-* select kth number from two sorted array
-* histgram最大面积
-* 二维bool矩阵的最大rectangle
-* 二维bool矩阵的最大square
-* 最长递增子数组
-* 最长连续公共序列
-* 最长连续字串
-* atoi
-* atof
-* Kown the reason of cirle point
+* TODO histgram最大面积
+  DEADLINE: <2012-08-11 Sat>
+* TODO 二维bool矩阵的最大rectangle
+  DEADLINE: <2012-08-11 Sat>
+* TODO 二维bool矩阵的最大square
+* TODO 最长连续公共序列
+  SCHEDULED: <2012-08-11 Sat>
+* TODO 最长连续字串
+* TODO 最长递增子数组 (编程之美)
+* TODO Kown the reason of cirle point
+* TODO select kth number from two sorted array
 * stl的应用
+  DEADLINE: <2012-08-11 Sat>
 ** TODO hashset
 ** TODO hashmap
 ** TODO list
-* CLRS augment datastructure
 * LRU Cache [%]
 ** Chrome lru cache
 ** leveldb lru cache
-* CLRS dynamic programming
 * KMP
+  SCHEDULED: <2012-08-12 Sun>
 * Extend KMP
-* Suffix tree
+  SCHEDULED: <2012-08-12 Sun>
 * Top Coder trie tree
+  SCHEDULED: <2012-08-12 Sun>
+* Suffix tree
+  SCHEDULED: <2012-08-12 Sun>
 * lca
 * rmq online offline algorithms
 * 树状数组
 * 连续窗口寻找最大值 (Mr. Hui)
 * mvt slect the required version
+* CLRS dynamic programming
 * 双端堆，返回最大最小值
 * 《弄懂的算法编程题》
 * Bloom filter
-
+* atoi
+* atof
+* DONE CLRS augment datastructure
 * DONE how to debug
 * DONE why join google
 * DONE Any other question?
