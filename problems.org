@@ -1,22 +1,26 @@
 * TODO histgram最大面积
+  SCHEDULED: <2012-08-12 周日 11:00>
+* DONE 二维bool矩阵的最大rectangle
   DEADLINE: <2012-08-11 Sat>
-* TODO 二维bool矩阵的最大rectangle
-  DEADLINE: <2012-08-11 Sat>
-* TODO 二维bool矩阵的最大square
-* TODO 最长连续公共序列
+* DONE 二维bool矩阵的最大square
+* DONE 最长连续公共序列
   SCHEDULED: <2012-08-11 Sat>
-* TODO 最长连续字串
+* DONE 最长连续字串
 * TODO 最长递增子数组 (编程之美)
+  SCHEDULED: <2012-08-12 周日 11:00>
 * TODO Kown the reason of cirle point
+  SCHEDULED: <2012-08-12 周日 11:00>
 * TODO select kth number from two sorted array
-* stl的应用
-  DEADLINE: <2012-08-11 Sat>
+  SCHEDULED: <2012-08-12 周日 11:00>
+* stl的应用 [0%]
+  SCHEDULED: <2012-08-12 周日>
 ** TODO hashset
-** TODO hashmap
+** TODO hashtable
 ** TODO list
-* LRU Cache [%]
-** Chrome lru cache
-** leveldb lru cache
+
+* LRU Cache [0%]
+** TODO Chrome lru cache
+** TODO leveldb lru cache
 * KMP
   SCHEDULED: <2012-08-12 Sun>
 * Extend KMP
@@ -26,93 +30,105 @@
 * Suffix tree
   SCHEDULED: <2012-08-12 Sun>
 * lca
-* rmq online offline algorithms
-* 树状数组
-* 连续窗口寻找最大值 (Mr. Hui)
-* mvt slect the required version
-* CLRS dynamic programming
-* 双端堆，返回最大最小值
-* 《弄懂的算法编程题》
-* Bloom filter
-* atoi
-* atof
-* DONE CLRS augment datastructure
-* DONE how to debug
-* DONE why join google
-* DONE Any other question?
-* DONE TODO寻找满足条件的数 [100%]
+  SCHEDULED: <2012-08-18 周六>    
+* rmq online offline algorithms    
+  SCHEDULED: <2012-08-18 周六>    
+* 树状数组    
+  SCHEDULED: <2012-08-19 周日>    
+* 连续窗口寻找最大值 (Mr. Hui)    
+  SCHEDULED: <2012-08-19 周日>    
+* mvt slect the required version    
+  SCHEDULED: <2012-08-19 周日>    
+* CLRS dynamic programming    
+  SCHEDULED: <2012-08-18 周六>    
+* 双端堆，返回最大最小值    
+* 《弄懂的算法编程题》    
+* TODO Bloom filter    
+  SCHEDULED: <2012-08-25 周六>    
+* atoi    
+  SCHEDULED: <2012-08-18 周六>    
+* atof    
+  SCHEDULED: <2012-08-18 周六>    
+* DONE CLRS augment datastructure    
+* DONE how to debug    
+* DONE why join google    
+* DONE Any other question?    
+* DONE TODO寻找满足条件的数 [100%]    
 ** DONE 一个数组 a+b = c(c是已知的)
 ** DONE 一个数组是否存在a+b+c=0
 ** DONE 两个数组是否存在 a+b=c
 ** DONE 三个数组A B C 是否存在a+b+c=0
 ** DONE http://www.cs.mcgill.ca/~jking/papers/3sumhard.pdf
 ** DONE 平面上有n个点问是否有3点共线的点
-* DONE 设计一个数组结构，支持插入，快速返回中位数
-* DONE 二叉树的中位数
-* DONE 双向链表->二叉树
-* DONE 二叉树->双向链表
-* DONE regular expression(程序设计实践)
-* DONE ugly number
-* DONE 一维最大字段和
-* DONE 二维最大字段和
-* DONE 一维循环数组最大字段和 (AA)
-* DONE 二维循环数组最大字段和
-* DONE 二维上线左右循环数组最大字段和
-* DONE lake couting (dp)
-* DONE skating(dp)
-* DONE quick select
+* DONE 设计一个数组结构，支持插入，快速返回中位数    
+* DONE 二叉树的中位数    
+* DONE 双向链表->二叉树    
+* DONE 二叉树->双向链表    
+* DONE regular expression(程序设计实践)    
+* DONE ugly number    
+* DONE 一维最大字段和    
+* DONE 二维最大字段和    
+* DONE 一维循环数组最大字段和 (AA)    
+* DONE 二维循环数组最大字段和    
+* DONE 二维上线左右循环数组最大字段和    
+* DONE lake couting (dp)    
+* DONE skating(dp)    
+* DONE quick select    
 * DONE Binary search
 ** DONE lowe rbound
-** DONE uppper bound
-* DONE Permulation
-* DONE Combine
-* DONE Power
-* DONE Complex list copy
-* DONE reverse sigle linked list
-* DONE reverse double linked list
-* DONE monkey move bananas
+** DONE uppper bound    
+* DONE Permulation    
+* DONE Combine    
+* DONE Power    
+* DONE Complex list copy    
+* DONE reverse sigle linked list    
+* DONE reverse double linked list    
+* DONE monkey move bananas    
 * DONE List
 ** DONE mid number of list
-** DONE last k number of list
-* DONE 找明星
+** DONE last k number of list    
+* DONE 找明星    
 * DONE stl的应用 [100%]
 ** DONE vector 2-d vector
 ** DONE string resize
 ** DONE string reserve
-** DONE std::reverse
-* DONE fabric
-* DONE 二进制中1的个数
-* DONE 寻找水王
-* DONE Phone number
-* DONE max length of bst
-* DONE throw eggs （DP）
-* DONE Intersting google interview
-* DONE itoa
-* DONE memcpy (assert)
-* DONE memmov (指针位置)
+** DONE std::reverse    
+* DONE fabric    
+* DONE 二进制中1的个数    
+* DONE 寻找水王    
+* DONE Phone number    
+* DONE max length of bst    
+* DONE throw eggs （DP）    
+* DONE Intersting google interview    
+* DONE itoa    
+* DONE memcpy (assert)    
+* DONE memmov (指针位置)    
 * DONE stack
 ** DONE Use 2 stack to implement queue
-** DONE Find the minimum of the stack
+** DONE Find the minimum of the stack    
 * List [100%]
 ** DONE Find whether the list had a cirle
 ** DONE Find the cirle point
-** DONE Whether two list has intersection
-* DONE Quick Sort
-* DONE Merge Sort
-* DONE What's thread safe
-* DONE Binary Search tree insert
-* DONE Poker shuffle
-* DONE 不知到行数，从中随机挑一行/n行
-* DONE n个0-n^2-1的数进行排序
-* DONE 24点
-* DONE 逆转字符串
-* DONE Valid bst(判断条件不要弄反了，自信的多检查一下，总有可能出错)
-* DONE poor monkey
-* DONE rotaetd array search
-* DONE 走台阶
-* DONE big integer add sub mul div
+** DONE Whether two list has intersection    
+* DONE Quick Sort    
+* DONE Merge Sort    
+* DONE What's thread safe    
+* DONE Binary Search tree insert    
+* DONE Poker shuffle    
+* DONE 不知到行数，从中随机挑一行/n行    
+* DONE n个0-n^2-1的数进行排序    
+* DONE 24点    
+* DONE 逆转字符串    
+* DONE Valid bst(判断条件不要弄反了，自信的多检查一下，总有可能出错)    
+* DONE poor monkey    
+* DONE rotaetd array search    
+* DONE 走台阶    
+* DONE big integer add sub mul div    
 * DONE Joseph
 ** DONE array
 ** DONE list
-** DONE formula
-* TODO pssh
+** DONE formula    
+* TODO pssh    
+ 
+
+    
