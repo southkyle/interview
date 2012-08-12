@@ -1,5 +1,7 @@
 #include "common.h"
 #include <limits>
+#include <algorithm>
+#include <numeric>
 using namespace std;
 
 int MaxSum1(int array[], int n) {

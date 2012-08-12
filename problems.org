@@ -1,4 +1,4 @@
-* TODO histgram最大面积
+* DONE histgram最大面积
   SCHEDULED: <2012-08-12 周日 11:00>
 * DONE 二维bool矩阵的最大rectangle
   DEADLINE: <2012-08-11 Sat>
@@ -6,17 +6,18 @@
 * DONE 最长连续公共序列
   SCHEDULED: <2012-08-11 Sat>
 * DONE 最长连续字串
-* TODO 最长递增子数组 (编程之美)
+* DONE 最长递增子数组 (编程之美)
   SCHEDULED: <2012-08-12 周日 11:00>
 * TODO Kown the reason of cirle point
   SCHEDULED: <2012-08-12 周日 11:00>
 * TODO select kth number from two sorted array
   SCHEDULED: <2012-08-12 周日 11:00>
-* stl的应用 [0%]
+* stl的应用 [25%]
   SCHEDULED: <2012-08-12 周日>
 ** TODO hashset
 ** TODO hashtable
-** TODO list
+** DONE list
+** TODO ChenShuo stl
 
 * LRU Cache [0%]
 ** TODO Chrome lru cache
