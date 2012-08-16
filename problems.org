@@ -1,3 +1,32 @@
+* TODO select kth number from two sorted array
+  SCHEDULED: <2012-08-12 周日 11:00>
+* TODO Top Coder trie tree
+  SCHEDULED: <2012-08-18 Sat>
+* TODO Suffix tree
+  SCHEDULED: <2012-08-18 Sat>
+* TODO lca
+  SCHEDULED: <2012-08-18 周六>    
+* TODO rmq online offline algorithms    
+  SCHEDULED: <2012-08-18 周六>    
+* TODO KMP
+  SCHEDULED: <2012-08-18 Sat>
+* TODO Extend KMP
+  SCHEDULED: <2012-08-18 Sat>
+* TODO 树状数组    
+  SCHEDULED: <2012-08-19 周日>    
+* TODO 连续窗口寻找最大值 (Mr. Hui)    
+  SCHEDULED: <2012-08-19 周日>    
+* TODO mvt slect the required version    
+  SCHEDULED: <2012-08-19 周日>    
+* TODO CLRS dynamic programming    
+  SCHEDULED: <2012-08-18 周六>    
+* TODO 弄懂的算法编程题
+* TODO 双端堆，返回最大最小值
+* DONE LRU Cache [100%]
+** DONE Chrome lru cache
+** DONE leveldb lru cache
+* DONE Bloom filter    
+  SCHEDULED: <2012-08-25 周六>    
 * DONE histgram最大面积
   SCHEDULED: <2012-08-12 周日 11:00>
 * DONE 二维bool矩阵的最大rectangle
@@ -8,47 +37,18 @@
 * DONE 最长连续字串
 * DONE 最长递增子数组 (编程之美)
   SCHEDULED: <2012-08-12 周日 11:00>
-* TODO Kown the reason of cirle point
+* DONE Kown the reason of cirle point
   SCHEDULED: <2012-08-12 周日 11:00>
-* TODO select kth number from two sorted array
-  SCHEDULED: <2012-08-12 周日 11:00>
-* stl的应用 [25%]
+* DONE stl的应用 [100%]
   SCHEDULED: <2012-08-12 周日>
-** TODO hashset
-** TODO hashtable
+** DONE hashset
+** DONE hashtable
 ** DONE list
-** TODO ChenShuo stl
+** DONE ChenShuo stl
 
-* LRU Cache [0%]
-** TODO Chrome lru cache
-** TODO leveldb lru cache
-* KMP
-  SCHEDULED: <2012-08-12 Sun>
-* Extend KMP
-  SCHEDULED: <2012-08-12 Sun>
-* Top Coder trie tree
-  SCHEDULED: <2012-08-12 Sun>
-* Suffix tree
-  SCHEDULED: <2012-08-12 Sun>
-* lca
+* DONE atoi    
   SCHEDULED: <2012-08-18 周六>    
-* rmq online offline algorithms    
-  SCHEDULED: <2012-08-18 周六>    
-* 树状数组    
-  SCHEDULED: <2012-08-19 周日>    
-* 连续窗口寻找最大值 (Mr. Hui)    
-  SCHEDULED: <2012-08-19 周日>    
-* mvt slect the required version    
-  SCHEDULED: <2012-08-19 周日>    
-* CLRS dynamic programming    
-  SCHEDULED: <2012-08-18 周六>    
-* 双端堆，返回最大最小值    
-* 《弄懂的算法编程题》    
-* TODO Bloom filter    
-  SCHEDULED: <2012-08-25 周六>    
-* atoi    
-  SCHEDULED: <2012-08-18 周六>    
-* atof    
+* DONE atof    
   SCHEDULED: <2012-08-18 周六>    
 * DONE CLRS augment datastructure    
 * DONE how to debug    
