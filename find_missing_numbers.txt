@@ -1,0 +1,14 @@
+
+find 1 missing number in array [1..n]
+
+find 2 missing number in array [1..n]
+http://www.cnblogs.com/shilcare/archive/2012/04/24/2468084.html
+
+find 3 missing numbers in array [1..n]
+bit set
+or use math
+x + y + z = sigma(1-n) - signma(i)
+x^2 + y^2 + z^2 = signma(1^2+..n^2) - sigma(i^2)
+x^3 + Y^3 + z^3 = sigma(1^3+..+n^3) - sigma(i^3)
+
+find k missing numbers in array[1..n]
